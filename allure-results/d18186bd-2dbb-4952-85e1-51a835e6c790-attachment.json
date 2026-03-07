@@ -1,0 +1,9 @@
+{
+  "method": "POST",
+  "url": "http://120.24.230.62/fishResourceApi/admin/task/producers",
+  "params": {},
+  "data": {},
+  "json": {
+    "taskNodeCode": ""
+  }
+}

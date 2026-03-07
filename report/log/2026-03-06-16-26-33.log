@@ -1,0 +1,49 @@
+2026-03-06 16:26:33,787 - root - INFO - 开始创建公告任务
+2026-03-06 16:26:33,788 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:34,088 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/researchInstance/createSingleTask HTTP/1.1" 200 None
+2026-03-06 16:26:34,090 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:34,188 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "GET http://120.24.230.62/fishResourceApi/admin/task/manager/verifyTaskNodes?page=1&size=10 HTTP/1.1" 200 None
+2026-03-06 16:26:34,189 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:34,371 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/producers HTTP/1.1" 200 None
+2026-03-06 16:26:34,374 - root - INFO - 开始委派任务
+2026-03-06 16:26:34,374 - root - INFO - 开始委派任务
+2026-03-06 16:26:34,375 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:34,375 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:34,765 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/manager/assignToDept HTTP/1.1" 200 None
+2026-03-06 16:26:34,765 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/manager/assignToDept HTTP/1.1" 200 None
+2026-03-06 16:26:34,769 - root - INFO - 开始保存正文内容
+2026-03-06 16:26:34,769 - root - INFO - 开始保存正文内容
+2026-03-06 16:26:34,769 - root - INFO - 开始保存正文内容
+2026-03-06 16:26:34,770 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:34,770 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:34,770 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:34,908 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/content HTTP/1.1" 200 None
+2026-03-06 16:26:34,908 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/content HTTP/1.1" 200 None
+2026-03-06 16:26:34,908 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/content HTTP/1.1" 200 None
+2026-03-06 16:26:34,910 - root - INFO - 开始提交审核
+2026-03-06 16:26:34,910 - root - INFO - 开始提交审核
+2026-03-06 16:26:34,910 - root - INFO - 开始提交审核
+2026-03-06 16:26:34,910 - root - INFO - 开始提交审核
+2026-03-06 16:26:34,911 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:34,911 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:34,911 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:34,911 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:36,650 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/confirm HTTP/1.1" 200 None
+2026-03-06 16:26:36,650 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/confirm HTTP/1.1" 200 None
+2026-03-06 16:26:36,650 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/confirm HTTP/1.1" 200 None
+2026-03-06 16:26:36,650 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/confirm HTTP/1.1" 200 None
+2026-03-06 16:26:36,651 - root - INFO - 开始发布正文
+2026-03-06 16:26:36,651 - root - INFO - 开始发布正文
+2026-03-06 16:26:36,651 - root - INFO - 开始发布正文
+2026-03-06 16:26:36,651 - root - INFO - 开始发布正文
+2026-03-06 16:26:36,651 - root - INFO - 开始发布正文
+2026-03-06 16:26:36,652 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:36,652 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:36,652 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:36,652 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:36,652 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2026-03-06 16:26:36,945 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/manager/launch HTTP/1.1" 200 None
+2026-03-06 16:26:36,945 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/manager/launch HTTP/1.1" 200 None
+2026-03-06 16:26:36,945 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/manager/launch HTTP/1.1" 200 None
+2026-03-06 16:26:36,945 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/manager/launch HTTP/1.1" 200 None
+2026-03-06 16:26:36,945 - urllib3.connectionpool - DEBUG - http://127.0.0.1:7897 "POST http://120.24.230.62/fishResourceApi/admin/task/manager/launch HTTP/1.1" 200 None
