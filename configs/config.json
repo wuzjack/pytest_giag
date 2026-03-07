@@ -1,0 +1,9 @@
+{
+  "base_url": "xxx",
+  "api_base_url": "xxx",
+  "timeout_seconds": 20,
+  "headless": true,
+  "projectConfig": {
+    "project_path": "xxx/test2"
+  }
+}
