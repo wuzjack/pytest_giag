@@ -1,9 +1,0 @@
-{
-  "method": "POST",
-  "url": "http://120.24.230.62/fishResourceApi/admin/task/confirm",
-  "params": {},
-  "data": {},
-  "json": {
-    "taskCode": "6779e93270e445949f5fe777e0a9aeaa"
-  }
-}
