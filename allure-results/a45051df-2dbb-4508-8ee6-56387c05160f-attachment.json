@@ -1,0 +1,25 @@
+{
+  "method": "POST",
+  "url": "http://120.24.230.62/fishResourceApi/admin/researchInstance/batchCreate",
+  "params": {},
+  "data": {},
+  "json": {
+    "instances": [
+      {
+        "id": "3ed706b26f5ac04ff76beaafe980cd67",
+        "instanceName": "自动测试bb",
+        "templateCode": "57ce5f58c0a1441aa9408bc26b5ed88e",
+        "industryClassifyCodes": [
+          "ee285a2d6eed4a70b3de7fb2022d2c28",
+          "201977c81ed04ea487496853603115f3",
+          "a5ad99086cd54f12a17062a1cbae2db6"
+        ],
+        "entCodes": [],
+        "customClassifyCodes": [
+          "d8ffb38192e0486d835c9238b799752f",
+          "b848af986db04c13888d0cce78d649c8"
+        ]
+      }
+    ]
+  }
+}

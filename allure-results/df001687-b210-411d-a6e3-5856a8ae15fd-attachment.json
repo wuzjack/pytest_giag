@@ -1,0 +1,10 @@
+{
+  "method": "POST",
+  "url": "http://120.24.230.62/fishResourceApi/admin/researchInstance/createSingleTask",
+  "params": {},
+  "data": {},
+  "json": {
+    "instanceCode": "ecfcccee92654d579f78fd0466524697",
+    "moduleCode": "57165fc3c98d45ffb1d348e08870f0ff"
+  }
+}
